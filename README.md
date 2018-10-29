@@ -1,0 +1,2 @@
+# HelloWordHapi
+HapiJS example usage
