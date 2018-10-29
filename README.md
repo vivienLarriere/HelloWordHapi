@@ -1,2 +1,3 @@
 # HelloWordHapi
-HapiJS example usage
+HapiJS simple example usage
+Code is in French
